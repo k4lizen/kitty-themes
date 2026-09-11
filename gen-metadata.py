@@ -14,6 +14,7 @@ LICENSE_RENAMES = {
     "GNU GPLv3": "GPLv3",
     "GNU General Public License v3.0": "GPL-3.0",
     "GPL-3": "GPL-3.0",
+    'GPL-3.0': 'GPL-3.0',
     "MIT license": "MIT",
     "MIT": "MIT",
     "MIT/X11": "MIT",
